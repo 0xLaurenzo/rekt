@@ -8,3 +8,4 @@ Even if your github profile does not display your email; often it can be obtaine
 - faddat
 - mgl2150
 - jbowen93
+- herculesGLPMC
